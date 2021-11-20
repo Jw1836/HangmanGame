@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jesse/CLionProjects/Hangman/Hangman.h
+vector
+-
+
+C:/Users/jesse/CLionProjects/Hangman/main.cpp
+iostream
+-
+cstring
+-
+ctime
+-
+Hangman.h
+C:/Users/jesse/CLionProjects/Hangman/Hangman.h
+
